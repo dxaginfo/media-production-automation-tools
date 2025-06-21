@@ -1,0 +1,100 @@
+# SceneValidator Configuration
+
+# Gemini API Configuration
+gemini:
+  # API key for Gemini
+  # To set via environment variable, use: GEMINI_API_KEY
+  api_key: ""
+  
+  # Model to use for validation enhancements
+  model: "gemini-pro"
+  
+  # Maximum tokens for Gemini requests
+  max_tokens: 8192
+
+# Google Cloud Vision API Configuration (for storyboard analysis)
+vision_api:
+  # Whether to use Vision API
+  enabled: false
+  
+  # Vision API credentials path
+  # Leave empty to use application default credentials
+  credentials_path: ""
+
+# Firebase Configuration (for persistence and sharing)
+firebase:
+  # Whether to use Firebase
+  enabled: false
+  
+  # Firestore collection for storing validation results
+  collection: "validation_results"
+  
+  # Project ID (leave empty to use default)
+  project_id: ""
+
+# Validation Configuration
+validation:
+  # Strict mode applies more rigorous validation rules
+  strict_mode: false
+  
+  # Individual validation rule toggles
+  rules:
+    # Script structure validation
+    structure: true
+    
+    # Continuity checking across scenes
+    continuity: true
+    
+    # Character consistency validation
+    character: true
+    
+    # Setting and location verification
+    setting: true
+    
+    # Timeline coherence checking
+    timeline: true
+    
+    # Technical requirements validation
+    technical: true
+  
+  # Customizable rule thresholds
+  thresholds:
+    # Maximum scenes gap for character continuity warning
+    max_character_gap: 5
+    
+    # Minimum characters required in scene description
+    min_description_length: 50
+    
+    # Maximum scene length (in dialogue lines) before warning
+    max_scene_length: 100
+
+# Reporting Configuration
+reporting:
+  # Include suggestions in validation reports
+  include_suggestions: true
+  
+  # Maximum number of suggestions per error
+  max_suggestions_per_error: 3
+  
+  # Default report format (json, html, pdf)
+  default_format: "json"
+  
+  # Include timestamp in report filename
+  include_timestamp: true
+  
+  # Custom report template paths (leave empty to use defaults)
+  templates:
+    html: ""
+    pdf: ""
+
+# Logging Configuration
+logging:
+  # Log level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
+  level: "INFO"
+  
+  # Log to file
+  file:
+    enabled: false
+    path: "scene_validator.log"
+    max_size_mb: 10
+    backup_count: 3
