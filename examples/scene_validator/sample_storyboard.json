@@ -1,0 +1,216 @@
+{
+  "title": "Sample Storyboard",
+  "script_title": "Sample Script",
+  "version": "1.0",
+  "date": "2025-06-21",
+  "frames": [
+    {
+      "number": 1,
+      "scene": 1,
+      "description": "Wide shot of office with multiple desks",
+      "characters": ["JOHN", "SARAH"],
+      "camera": "Wide shot",
+      "notes": "Establish busy office environment"
+    },
+    {
+      "number": 2,
+      "scene": 1,
+      "description": "Close-up of John typing on computer",
+      "characters": ["JOHN"],
+      "camera": "Close-up",
+      "notes": "Show John's stressed expression"
+    },
+    {
+      "number": 3,
+      "scene": 1,
+      "description": "Medium shot of Sarah approaching John's desk",
+      "characters": ["JOHN", "SARAH"],
+      "camera": "Medium shot",
+      "notes": "Sarah offers help to John"
+    },
+    {
+      "number": 4,
+      "scene": 2,
+      "description": "Wide shot of parking lot at sunset",
+      "characters": [],
+      "camera": "Wide shot",
+      "notes": "Establish time of day and location"
+    },
+    {
+      "number": 5,
+      "scene": 2,
+      "description": "Medium shot of John walking to his car",
+      "characters": ["JOHN"],
+      "camera": "Medium shot",
+      "notes": "John looks tired but relieved"
+    },
+    {
+      "number": 6,
+      "scene": 3,
+      "description": "Medium shot of John entering apartment",
+      "characters": ["JOHN"],
+      "camera": "Medium shot",
+      "notes": "John drops briefcase by door"
+    },
+    {
+      "number": 7,
+      "scene": 3,
+      "description": "Close-up of John opening refrigerator",
+      "characters": ["JOHN"],
+      "camera": "Close-up",
+      "notes": "John takes out a beer"
+    },
+    {
+      "number": 8,
+      "scene": 4,
+      "description": "Medium shot of John at desk",
+      "characters": ["JOHN"],
+      "camera": "Medium shot",
+      "notes": "John looks refreshed"
+    },
+    {
+      "number": 9,
+      "scene": 4,
+      "description": "Medium shot of Sarah approaching with coffee",
+      "characters": ["SARAH"],
+      "camera": "Medium shot",
+      "notes": "Sarah brings coffee to John"
+    },
+    {
+      "number": 10,
+      "scene": 4,
+      "description": "Medium wide shot including Boss approaching",
+      "characters": ["JOHN", "SARAH", "BOSS"],
+      "camera": "Medium wide shot",
+      "notes": "Boss enters the scene"
+    },
+    {
+      "number": 11,
+      "scene": 5,
+      "description": "Wide shot of conference room",
+      "characters": ["JOHN", "BOSS", "COLLEAGUES"],
+      "camera": "Wide shot",
+      "notes": "Establish conference room setting"
+    },
+    {
+      "number": 12,
+      "scene": 5,
+      "description": "Medium shot of Boss standing at head of table",
+      "characters": ["BOSS"],
+      "camera": "Medium shot",
+      "notes": "Boss praising John's work"
+    },
+    {
+      "number": 13,
+      "scene": 5,
+      "description": "Close-up of John looking pleased",
+      "characters": ["JOHN"],
+      "camera": "Close-up",
+      "notes": "John's reaction to praise"
+    },
+    {
+      "number": 14,
+      "scene": 6,
+      "description": "Wide shot of park on sunny day",
+      "characters": [],
+      "camera": "Wide shot",
+      "notes": "Establish park location"
+    },
+    {
+      "number": 15,
+      "scene": 6,
+      "description": "Medium shot of John reading on bench",
+      "characters": ["JOHN"],
+      "camera": "Medium shot",
+      "notes": "John reading peacefully"
+    },
+    {
+      "number": 16,
+      "scene": 6,
+      "description": "Medium shot of Mary approaching bench",
+      "characters": ["MARY"],
+      "camera": "Medium shot",
+      "notes": "Mary noticing John"
+    },
+    {
+      "number": 17,
+      "scene": 6,
+      "description": "Two shot of John and Mary on bench",
+      "characters": ["JOHN", "MARY"],
+      "camera": "Two shot",
+      "notes": "John and Mary starting conversation"
+    },
+    {
+      "number": 18,
+      "scene": 7,
+      "description": "Wide shot of restaurant interior",
+      "characters": [],
+      "camera": "Wide shot",
+      "notes": "Establish romantic restaurant setting"
+    },
+    {
+      "number": 19,
+      "scene": 7,
+      "description": "Two shot of John and Mary at table",
+      "characters": ["JOHN", "MARY"],
+      "camera": "Two shot",
+      "notes": "John and Mary enjoying dinner"
+    },
+    {
+      "number": 20,
+      "scene": 7,
+      "description": "Medium shot of waiter approaching table",
+      "characters": ["WAITER"],
+      "camera": "Medium shot",
+      "notes": "Waiter offering dessert menu"
+    },
+    {
+      "number": 21,
+      "scene": 8,
+      "description": "Medium shot of John arriving at office",
+      "characters": ["JOHN"],
+      "camera": "Medium shot",
+      "notes": "John looks happy"
+    },
+    {
+      "number": 22,
+      "scene": 8,
+      "description": "Two shot of Sarah noticing John's mood",
+      "characters": ["JOHN", "SARAH"],
+      "camera": "Two shot",
+      "notes": "Sarah teasing John about his good mood"
+    },
+    {
+      "number": 24,
+      "scene": 9,
+      "description": "Wide shot of beach at sunset",
+      "characters": [],
+      "camera": "Wide shot",
+      "notes": "Establish romantic beach setting"
+    },
+    {
+      "number": 25,
+      "scene": 9,
+      "description": "Two shot of John and Mary walking on beach",
+      "characters": ["JOHN", "MARY"],
+      "camera": "Two shot",
+      "notes": "John and Mary holding hands"
+    },
+    {
+      "number": 26,
+      "scene": 9,
+      "description": "Close-up of John and Mary's faces at sunset",
+      "characters": ["JOHN", "MARY"],
+      "camera": "Close-up",
+      "notes": "Emotional moment between John and Mary"
+    },
+    {
+      "number": 27,
+      "scene": 11,
+      "description": "Medium shot of John's apartment door opening",
+      "characters": ["JOHN", "MARY"],
+      "camera": "Medium shot",
+      "notes": "John and Mary entering apartment"
+    }
+  ]
+}
