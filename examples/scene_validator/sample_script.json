@@ -1,0 +1,173 @@
+{
+  "title": "Sample Script",
+  "author": "John Doe",
+  "version": "1.0",
+  "date": "2025-06-21",
+  "scenes": [
+    {
+      "heading": "INT. OFFICE - DAY",
+      "description": "A busy office with people working at their desks. JOHN (35) sits at his desk, typing rapidly on his computer. He looks stressed and occasionally glances at the clock on the wall.",
+      "characters": ["JOHN", "SARAH"],
+      "dialogue": [
+        {
+          "character": "JOHN",
+          "text": "I need to finish this report by 5 PM."
+        },
+        {
+          "character": "SARAH",
+          "text": "Do you need any help with that?"
+        },
+        {
+          "character": "JOHN",
+          "text": "No, I've got it. But thanks for asking."
+        }
+      ]
+    },
+    {
+      "heading": "EXT. PARKING LOT - EVENING",
+      "description": "The sun is setting as JOHN walks to his car in the office parking lot. He looks tired but relieved.",
+      "characters": ["JOHN"],
+      "dialogue": [
+        {
+          "character": "JOHN",
+          "text": "(to himself)\nFinally done. What a day."
+        }
+      ]
+    },
+    {
+      "heading": "INT. JOHN'S APARTMENT - NIGHT",
+      "description": "JOHN enters his apartment and drops his briefcase by the door. The apartment is small but tidy. He goes to the refrigerator and takes out a beer.",
+      "characters": ["JOHN"],
+      "dialogue": []
+    },
+    {
+      "heading": "INT. OFFICE - MORNING",
+      "description": "JOHN is back at his desk, looking refreshed. SARAH approaches with a cup of coffee.",
+      "characters": ["JOHN", "SARAH", "BOSS"],
+      "dialogue": [
+        {
+          "character": "SARAH",
+          "text": "How was your evening?"
+        },
+        {
+          "character": "JOHN",
+          "text": "Quiet. Just what I needed."
+        },
+        {
+          "character": "BOSS",
+          "text": "John, do you have that report ready?"
+        },
+        {
+          "character": "JOHN",
+          "text": "Yes, sir. I emailed it to you last night."
+        }
+      ]
+    },
+    {
+      "heading": "INT. CONFERENCE ROOM - CONTINUOUS",
+      "description": "A large conference room with a long table. JOHN and several colleagues sit around the table. The BOSS stands at the head of the table.",
+      "characters": ["JOHN", "BOSS", "COLLEAGUES"],
+      "dialogue": [
+        {
+          "character": "BOSS",
+          "text": "Your report was excellent, John. I'd like you to present it to the team."
+        },
+        {
+          "character": "JOHN",
+          "text": "Thank you, sir. I'd be happy to."
+        }
+      ]
+    },
+    {
+      "heading": "EXT. PARK - WEEKEND",
+      "description": "A sunny day at the park. JOHN sits on a bench, reading a book. MARY approaches and sits beside him.",
+      "characters": ["JOHN", "MARY"],
+      "dialogue": [
+        {
+          "character": "MARY",
+          "text": "Is this seat taken?"
+        },
+        {
+          "character": "JOHN",
+          "text": "No, please join me."
+        }
+      ]
+    },
+    {
+      "heading": "INT. RESTAURANT - NIGHT",
+      "description": "JOHN and MARY sit at a table in a dimly lit restaurant. They're laughing and enjoying their meal.",
+      "characters": ["JOHN", "MARY", "WAITER"],
+      "dialogue": [
+        {
+          "character": "JOHN",
+          "text": "I'm really glad we met at the park."
+        },
+        {
+          "character": "MARY",
+          "text": "Me too. It must have been fate."
+        },
+        {
+          "character": "WAITER",
+          "text": "Would you like to see the dessert menu?"
+        },
+        {
+          "character": "JOHN",
+          "text": "Yes, please."
+        }
+      ]
+    },
+    {
+      "heading": "INT. OFFICE - MORNING",
+      "description": "JOHN arrives at the office with a spring in his step. SARAH notices his good mood.",
+      "characters": ["JOHN", "SARAH"],
+      "dialogue": [
+        {
+          "character": "SARAH",
+          "text": "Someone's in a good mood today."
+        },
+        {
+          "character": "JOHN",
+          "text": "Is it that obvious?"
+        },
+        {
+          "character": "SARAH",
+          "text": "You're practically glowing. Hot date?"
+        },
+        {
+          "character": "JOHN",
+          "text": "Something like that."
+        }
+      ]
+    },
+    {
+      "heading": "EXT. BEACH - SUNSET",
+      "description": "JOHN and MARY walk along the beach, holding hands. The sunset creates a beautiful backdrop.",
+      "characters": ["JOHN", "MARY"],
+      "dialogue": [
+        {
+          "character": "MARY",
+          "text": "This has been the best week of my life."
+        },
+        {
+          "character": "JOHN",
+          "text": "Mine too. I never expected to meet someone like you."
+        }
+      ]
+    },
+    {
+      "heading": "INT. JOHN'S APARTMENT - NIGHT",
+      "description": "JOHN and MARY enter the apartment. JOHN turns on the lights and offers MARY a drink.",
+      "characters": ["JOHN", "MARY"],
+      "dialogue": [
+        {
+          "character": "JOHN",
+          "text": "Make yourself at home. Would you like something to drink?"
+        },
+        {
+          "character": "MARY",
+          "text": "Just water, thanks."
+        }
+      ]
+    }
+  ]
+}
